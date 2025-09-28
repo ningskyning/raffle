@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: raffle-app
+  profiles:
+    active: dev
